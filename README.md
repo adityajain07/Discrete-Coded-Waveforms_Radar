@@ -12,3 +12,6 @@ This project simulates the below discrete-coded waveforms in radar systems:
   * 4, 8 and 12-phase codes
 * Pseudo-Random Number (MLS) Codes
   * 15, 31 bit
+
+<br/>
+Attached is also a presentation given during the final project demonstration.
